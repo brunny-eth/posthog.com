@@ -219,3 +219,24 @@ Revenue growth is fast enough and we're getting so many unprompted offers for in
 Our marketing is getting weirder. It's more and more fun. We've commissioned a puppet, coming in January. Watch this space. Our newsletter, [Product for Engineers](/newsletter), now has 20,000 subscribers and it's growing fast.
 
 We're realizing that the more ambitious we are, the easier it gets – customers get excited, investors get excited, employees get excited. We can now see a real path to being a $100bn+ company and changing how software teams work industry-wide.
+
+### June 2025: Raised more money (for our people)
+
+We [raised a $70m Series D](https://posthog.com/blog/series-d) led by Stripe, with YC, GV, and Formus Capital participating.
+
+We didn’t raise because we needed more cash. We raised so some of our earliest employees could sell a small portion of their shares, and to increase founder control of the company long-term. Building something big should benefit the people doing the building, and we think people do better work when they’re not secretly stressed about their personal finances.
+
+We were also still working on our hedgehog puppet. Building a world-class customer infrastructure platform turned out to be easier than papier-mâché hedgehog puppets... but we are still [making progress](https://www.instagram.com/p/DEVGuToIPYR/?hl=en).
+
+### September 2025: PostHog's Act 2 
+
+We [raised a Series E of $75m at a $1.4bn valuation](https://posthog.com/blog/series-e), led by Peak XV Partners. We went from “unicorn adjacent” to “actual unicorn”, which mostly meant more people shouting “I freakin’ love PostHog!” at James in public.
+
+We met the Peak XV team through our friends at Supabase, and choosing them to lead our Series E (E stands for '**E**veryone knows the letters in fundraises don’t mean anything') was ultimately about the people. They showed up with genuine curiosity, high energy, and long-term alignment, and they want us to keep building in our own weird, spiky way.
+
+This is also the formal start of Act 2 for PostHog. We’ve gone deeper into being a devtool, not “just” analytics, by continuing to build out our customer infrastructure vision. We want to make life easy for PostHog users, so we’re starting to work on automatically generating pull requests for you based on everything happening in your product. You log in, and instead of digging through tickets and Slack, you see a list of PRs ready to merge, with feature flags, experiments, tracking, and feedback hooks already wired up. Boom.
+
+Commercially, cross-sell has matured from “a thing we should probably think about” into a real growth motion. Instead of customers using one product and discovering others by accident, we’ve learned how to help teams connect the dots between analytics → replays → flags → surveys → CDP → AI → outcomes. It turns out that when people see the compounding value of using PostHog products together, they actually want more PostHog.
+
+[Come join us](https://posthog.com/careers) if you want to help more people get more PostHog. 
+
