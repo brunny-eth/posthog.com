@@ -196,13 +196,13 @@ We've started doing [growth reviews](/handbook/product/per-product-growth-review
 
 ### October 2024: 100,000 customers, and speeding up – more products and more people
 
-We hit 100,000 customers either paying or free, and over a quarter of a million users. We've started hiring a lot faster as growth has continued this year. We're now 65 ish people with ~9 products.
+We hit 100,000 customers either paying or free, and over a quarter of a million users. We were ~65 people with ~9 products at this time. 
 
-We've added some people in [sales](/teams/sales-cs), but it is strictly (i) sales assist, talking to people that have asked to speak to us, and (ii) cross sell to existing customers. 
+We added some people in [sales](/teams/sales-cs), but it is strictly (i) sales assist, talking to people that have asked to speak to us, and (ii) cross sell to existing customers. 
 
-[We do _not_ do outbound](/sales), so we can remain efficient and either hire more engineers or cut our pricing for our customers so more of them recommend us! 
+[We do_not do outbound](/sales), so we can remain efficient and either hire more engineers or cut our pricing for our customers so more of them recommend us! 
 
-We've hired a sales engineer super early (Mine, she's awesome) and we're really working on the culture in this team proactively.
+We hired a sales engineer super early (Mine, she's awesome) and we're really working on the culture in this team proactively.
 
 Strategy-wise, we're just leaning into our basic three principles, which we're seeing more and more evidence are working well:
 
@@ -219,3 +219,23 @@ Revenue growth is fast enough and we're getting so many unprompted offers for in
 Our marketing is getting weirder. It's more and more fun. We've commissioned a puppet, coming in January. Watch this space. Our newsletter, [Product for Engineers](/newsletter), now has 20,000 subscribers and it's growing fast.
 
 We're realizing that the more ambitious we are, the easier it gets – customers get excited, investors get excited, employees get excited. We can now see a real path to being a $100bn+ company and changing how software teams work industry-wide.
+
+### June 2025: Raised more money (for our people, not because we needed it)
+
+We [raised a $70m Series D](https://posthog.com/blog/series-d) led by Stripe, with YC, GV, and Formus Capital participating.
+
+We didn’t raise because we needed the cash. We raised so some of our earliest employees could sell a small portion of their shares. Building something big should benefit the people doing the building, and we think people do better work when they’re not secretly stressed about their personal finances.
+
+We were also still working on our hedgehog puppet. Building a world-class customer infrastructure platform turned out to be easier than papier-mâché hedgehog puppets... but we are [making progress on the puppet.](https://www.instagram.com/p/DEVGuToIPYR/?hl=en)
+
+### September 2025: Unicorn, Act 2, and AI writing your PRs for you
+
+We've [raised a Series E of $75m at a $1.4bn valuation](https://posthog.com/blog/series-e) led by Peak XV Partners. In the span of a few months, we've gone from “unicorn adjacent” to “actual unicorn”, which mostly means more people shouting “I freakin' love PostHog!” at James in public.
+
+We met the Peak XV team through our friends at Supabase, and choosing them to lead our Series E (E stands for '**E**veryone knows the letters in fundraises don't mean anything') was ultimately about the people. They showed up with genuine curiosity, low ego, and long-term alignment, and they want us to keep building in our own, weird, spiky way. 
+
+This is also the formal start of Act 2 for PostHog. We've gone deeper into being a devtool, not “just” analytics, by continuing to build out customer infrastructure vision. We want to make life easy for PostHog users, so we're starting to work on automatically generating pull requests for you based on everything happening in your product. You log in, and instead of digging through tickets and Slack, you see a list of PRs ready to merge, with feature flags, experiments, tracking, and feedback hooks already wired up. Boom. 
+
+Commercially, this is when cross-sell matured from “a thing we should probably think about” into a real growth motion. Instead of customers using one product and discovering others by accident, we've learned how to help teams connect the dots between analytics → replays → flags → surveys → CDP → AI → outcomes. It turns out that when people see the compounding value of using PostHog products together, they actually want more PostHog. 
+
+We are hyped for 2026, where PostHog's Act 2 comes to life. [Come join us](https://posthog.com/careers). And if you see the PostHog puppet in the wild, don't be alarmed. Just wave. He loves the attention. 
