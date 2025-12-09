@@ -20,7 +20,7 @@ Building a company isn't a solo sport. We're [Ted Lasso](https://en.wikipedia.or
 
 ## Make it public
 
-We default to transparency with everything we work on. That means we make a lot of things public: [our code](https://github.com/posthog/posthog), our handbook, [our roadmap](/handbook/strategy/roadmap), [how we pay](/handbook/people/compensation) (or even [let go of](/handbook/people/offboarding)) people, [what our strategy is](/handbook/why-does-posthog-exist), and [who we have raised money from](/handbook/strategy/investors).
+We default to transparency with everything we work on. That means we make a lot of things public: [our code](https://github.com/posthog/posthog), our handbook, [our roadmap](/handbook/strategy/roadmap), [how we pay](/handbook/people/compensation) (or even [let go of](/handbook/people/offboarding)) people, [what our strategy is](/handbook/why-does-posthog-exist), and [who we have raised money from](/blog/series-e).
 
 Internally, a culture of transparency looks like managers telling you to raise feedback directly with the person it concerns instead of solving problems for you, it means changing teams around in public Slack channels, it means detailed financial information, live updates on fundraising and board slide access.
 
